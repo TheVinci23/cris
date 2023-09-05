@@ -1,4 +1,5 @@
 {
   "Version": "1.1",
-  "URL": "https://panelads.000webhostapp.com/get-update.php"
+  "UrlAds": "https://panelads.000webhostapp.com/get-update.php",
+  "UrlData": "https://numerary-cottons.000webhostapp.com/get-update.php"
 }
